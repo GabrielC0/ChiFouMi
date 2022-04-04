@@ -1,0 +1,9 @@
+let user = [
+    { name : "Gabriel", email : "exempleEmail"},
+    { name : "Ben", email : "exempleEmail2"},
+    { name : "Romain", email : "exempleEmail3"},
+    { name : "GuiGui", email : "exempleEmail4"},
+    { name : "Titi", email : "exempleEmail5"}
+]
+
+console.log(user.map(Element => Element.name));

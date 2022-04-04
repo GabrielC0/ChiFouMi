@@ -1,0 +1,17 @@
+.Button
+{
+    cursor: pointer;
+    margin: 1em;
+}
+  
+.Button:hover
+{
+    color: white;
+}
+  
+.BouttonClass
+{
+    display: flex;
+    flex-direction: row;
+}
+
